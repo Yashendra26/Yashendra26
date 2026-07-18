@@ -2,17 +2,15 @@
   <img src="https://imgs.search.brave.com/X8_XO4zsM4Lnp9-6wBs2emNTOz0bP4M0RvpH8YvKFAY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS8x/OWRiNTFhZjVmOTBm/MWIxNTJiYzBiOTA3/OGY1ZmU5NzA1Mzk1/NWJlNTA3NGYwM2Yx/NzAxOWM3MDM0NWJk/Y2RiLzY4NzQ3NDcw/NzMzYTJmMmY2ZDY5/NzI2ZjJlNmQ2NTY0/Njk3NTZkMmU2MzZm/NmQyZjZkNjE3ODJm/MzEzMzM2MzAyZjMw/MmEzNzUxMzM3OTc2/NTM0OTc2NWY3NDMw/Njk2ZjRhMmQ1YTJl/Njc2OTY2.jpeg" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Yashendra Singh</h1>
-<h3 align="center">"Android Developer🔥| Mastering DSA🚀"</h3>
+<h3 align="center">""</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/07/58/59/32/240_F_758593266_6LsoqpF37OsCt4zhcAc2neT5qLHmXpDV.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashendra26&label=Profile%20views&color=0e75b6&style=flat" alt="yashendra26" /> </p>
 
-- 💬 Ask me about **Android, Kotlin, Data Structures**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Python, C++, Kotlin, Data Structures**
 
 - 📫 How to reach me **yashendra26@gmail.com**
-
-- ⚡ Fun fact **I am humorous**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashendrasingh26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashendrasingh26" height="30" width="40" /></a>
